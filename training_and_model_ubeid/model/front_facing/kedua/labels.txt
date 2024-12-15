@@ -1,0 +1,2 @@
+1 liveness
+2 spoofing
